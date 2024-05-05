@@ -25,6 +25,7 @@ _____
 
 Parameter
 
-| Name | Type  Description | Required
---------------------------------------
-| keyword | String | 검색 키워드 | O |
+| Name | Type | Description | Required
+|------|------|------|-------------------
+| `keyword` | `String` | 검색 키워드 | O |
+| url | String | 블로그 url | X|
