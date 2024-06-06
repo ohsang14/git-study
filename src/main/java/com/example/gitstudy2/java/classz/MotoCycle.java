@@ -1,4 +1,4 @@
-package com.example.gitstudy2.java;
+package com.example.gitstudy2.java.classz;
 
 public class MotoCycle implements Vehicle{
     @Override
